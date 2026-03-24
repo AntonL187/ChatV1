@@ -1,0 +1,8 @@
+streamlit>=1.25.0
+<<<<<<< HEAD
+pandas>=1.5.0
+openpyxl>=3.10.0
+=======
+pandas
+openpyxl
+>>>>>>> 15f89df237e87911411a9f6f70fddbe465d22c92
